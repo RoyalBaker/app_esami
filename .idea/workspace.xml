@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="578f9ee4-fdfc-4d99-8f5d-fa741026f98d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -7,7 +10,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1sevMIA9C84HI7O7aFMTxEbgQ0y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
     <option name="showLibraryContents" value="true" />
@@ -21,6 +28,7 @@
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -35,6 +43,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="184" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621270172660">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state x="184" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.791@0.25.1440.791" timestamp="1621270172660" />
     <state x="100" y="100" width="1689" height="850" key="AVDManager" timestamp="1621246048556">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
