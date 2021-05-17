@@ -1,4 +1,4 @@
-package com.ananthu.flutter_weather;
+package com.pierluigiesami.app;
 
 import io.flutter.embedding.android.FlutterActivity;
 
