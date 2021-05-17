@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="578f9ee4-fdfc-4d99-8f5d-fa741026f98d" name="Default Changelist" comment="" />
+    <list default="true" id="578f9ee4-fdfc-4d99-8f5d-fa741026f98d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/flutter_weather-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flutter_weather-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_weather-master/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_weather-master/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_weather-master/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_weather-master/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_weather-master/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_weather-master/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_weather-master/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_weather-master/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_weather-master/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_weather-master/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_weather-master/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_weather-master/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_weather-master/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_weather-master/pubspec.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,15 +32,24 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/flutter_weather-master" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="RunManager">
+    <configuration name="app" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/flutter_weather-master/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -43,13 +64,50 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621270172660">
-      <screen x="0" y="25" width="1440" height="791" />
-    </state>
-    <state x="184" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.791@0.25.1440.791" timestamp="1621270172660" />
-    <state x="100" y="100" width="1689" height="850" key="AVDManager" timestamp="1621246048556">
+    <state x="245" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621280993713">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="100" y="100" width="1689" height="850" key="AVDManager/0.0.1920.1050@0.0.1920.1050" timestamp="1621246048556" />
+    <state x="245" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1621280993713" />
+    <state x="184" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.791@0.25.1440.791" timestamp="1621270172660" />
+    <state x="100" y="100" width="1689" height="850" key="AVDManager" timestamp="1621281189205">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="100" y="100" width="1689" height="850" key="AVDManager/0.0.1920.1050@0.0.1920.1050" timestamp="1621281189205" />
+    <state x="100" y="100" width="1689" height="850" key="DiffContextDialog" timestamp="1621280745833">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="100" y="100" width="1689" height="850" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1621280745833" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1621281247293">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1621281247293" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1621280764582">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1621280764582" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1621280764582">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1621280764582" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1621280764581">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1621280764581" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1621280764582">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1621280764582" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1621280741053">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1621280741053" />
+    <state x="667" y="258" width="585" height="592" key="find.popup" timestamp="1621280257696">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="667" y="258" width="585" height="592" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1621280257696" />
+    <state x="616" y="177" width="672" height="676" key="search.everywhere.popup" timestamp="1621280324963">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="177" width="672" height="676" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1621280324963" />
   </component>
 </project>
